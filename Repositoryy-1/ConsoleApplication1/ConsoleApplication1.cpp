@@ -8,7 +8,7 @@ int main()
     int a, b;
     cout << "Enter a number \n";
     cin >> a;
-    cout << "Enter another number";
+    cout << "Enter another number \n";
     cin >> b;
     cout << a * b;
     return 0;
