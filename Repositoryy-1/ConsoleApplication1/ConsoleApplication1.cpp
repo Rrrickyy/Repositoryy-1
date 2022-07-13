@@ -10,7 +10,7 @@ int main()
     cin >> a;
     cout << "Enter another number \n";
     cin >> b;
-    cout << a * b;
+    cout << a * b; 
     return 0;
 }
 

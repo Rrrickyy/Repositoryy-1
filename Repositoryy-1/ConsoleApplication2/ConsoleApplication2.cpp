@@ -4,8 +4,9 @@
 
 int main()
 {
-    std::cout << "Hello World!\n"; 
-    std::cout << "oooo"
+    auto x = 25 % 7;
+    cout << x;
+    return 0;
 }
 
 
